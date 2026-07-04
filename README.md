@@ -3,7 +3,7 @@
 # 🔷 Blockchain-Based Insurance Verification System
 
 ### Tamper-Proof Insurance Fraud Detection using Cryptographic Hashing + Blockchain
-<img src="https://skillicons.dev/icons?i=python,django,solidity,&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,django,solidity&theme=dark" />
 
 
 [Overview](#overview) • [Problem Statement](#problem-statement) • [System Architecture](#system-architecture) • [Modules](#modules) • [Tech Stack](#tech-stack) • [Installation](#installation) • [Usage](#usage) • [Results](#results) 
